@@ -1,0 +1,4 @@
+g++ -o test_1 test_1.cpp `pkg-config opencv --cflags --libs`
+
+
+here "test_1" is the name of cpp file
